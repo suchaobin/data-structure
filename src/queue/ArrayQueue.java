@@ -112,6 +112,7 @@ public class ArrayQueue {
                         break;
                     case 'e':
                         flag = false;
+                        scanner.close();
                         break;
                     default:
                         break;
