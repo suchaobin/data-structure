@@ -72,7 +72,7 @@ public class HorseChessBoard {
     /**
      * 马踏棋盘算法
      *
-     * @param chessboard 奇葩
+     * @param chessboard 棋盘
      * @param row        马当前所在的行
      * @param column     马当前所在的列
      * @param step       当前是第几步
